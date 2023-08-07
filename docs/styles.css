@@ -1,0 +1,10 @@
+/* styles.css */
+body {
+    background-color: darkslategray;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+h1 {
+    color: whitesmoke;
+}
